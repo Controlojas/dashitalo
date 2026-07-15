@@ -1,0 +1,9 @@
+commit 841f0ad7beefce8c934c5f81c08edf7c3ac8e166
+Author: Eduardo Arruda <arrudaeduardo53@gmail.com>
+Date:   Wed Jul 15 17:24:00 2026 -0300
+
+    Initial commit: dashboard Meta Ads x Hotmart
+    
+    Dashboard Next.js 14 com integração n8n + Supabase para cruzar gastos do Meta Ads com vendas da Hotmart, calculando ROAS, CPA e lucro por campanha.
+    
+    Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>
